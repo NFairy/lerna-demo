@@ -1,6 +1,6 @@
 {
   "name": "dxn2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dxn1": "^0.0.1"
+    "dxn1": "^0.0.2"
   },
   "gitHead": "d3fcf4559c5179eae96518117a45d41b5d81ce68"
 }
